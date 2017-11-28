@@ -49,3 +49,13 @@ ul li a img:hover {
 ul li a:hover {
 
 }
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
